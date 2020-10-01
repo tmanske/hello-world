@@ -1,2 +1,4 @@
 # hello-world
-my first git repo
+this is my first branch off my first "master" file
+
+Seems easy enough to branch
